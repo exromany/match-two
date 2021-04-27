@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/match-two/static/js/main.d2b33647.chunk.js",
+    "main.js.map": "/match-two/static/js/main.d2b33647.chunk.js.map",
+    "runtime-main.js": "/match-two/static/js/runtime-main.7ab28899.js",
+    "runtime-main.js.map": "/match-two/static/js/runtime-main.7ab28899.js.map",
+    "static/js/2.c140dadc.chunk.js": "/match-two/static/js/2.c140dadc.chunk.js",
+    "static/js/2.c140dadc.chunk.js.map": "/match-two/static/js/2.c140dadc.chunk.js.map",
+    "index.html": "/match-two/index.html",
+    "static/js/2.c140dadc.chunk.js.LICENSE.txt": "/match-two/static/js/2.c140dadc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ab28899.js",
+    "static/js/2.c140dadc.chunk.js",
+    "static/js/main.d2b33647.chunk.js"
+  ]
+}
